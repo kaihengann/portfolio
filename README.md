@@ -2,6 +2,8 @@
 
 A simple portfolio webpage to showcase projects
 
+1[Portfolio screenshot](https://raw.githubusercontent.com/thoughtworks-jumpstart/portfolio/master/portfolio.png)
+
 ## Instructions
 
 Build a one column portfolio webpage to showcase your projects. Each project contains an image, the name of the project, and the author of the project. 
