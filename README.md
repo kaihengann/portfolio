@@ -2,7 +2,7 @@
 
 A simple portfolio webpage to showcase projects
 
-1[Portfolio screenshot](https://raw.githubusercontent.com/thoughtworks-jumpstart/portfolio/master/portfolio.png)
+![Portfolio screenshot](https://raw.githubusercontent.com/thoughtworks-jumpstart/portfolio/master/portfolio.png)
 
 ## Instructions
 
